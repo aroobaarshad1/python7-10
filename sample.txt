@@ -1,0 +1,5 @@
+i made this document,to perform the practical. Apporach of the the python by which it can open the file this is a sample file.
+This will help to perform the practical.We can understand it by performing this. 
+This is a text file which covers the proper practical of file opening.
+It is good enough to understand concept.
+This is good to practice the concept.
